@@ -31,7 +31,7 @@ function countdown() {
     clearInterval(i);
     document.querySelector(
       ".countdown"
-    ).innerHTML =`<h1>Happy sweet seventeen my lovely, ada sesuatu buat ila nih, klik <a href='ilabday.site'>disini</a> ya...</h1>`;
+    ).innerHTML =`<h1>Happy sweet seventeen my lovely 🎂🎉, ada sesuatu buat ila nih, klik <a href='https://ilabday.vercel.app'>disini</a> ya...</h1>`;
   }
   //If end date is not before today date
   else {
